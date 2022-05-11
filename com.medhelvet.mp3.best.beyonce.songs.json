@@ -40,11 +40,11 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : false,
 
-"STARTAPPID" : "",
+"STARTAPPID" : "205752576",
 
-"ADMOB_BANNER" : "ca-app-pub-",
-"ADMOB_INTER" : "ca-app-pub-",
-"ADMOB_NATIV" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-4744201980468292/2942098158",
+"ADMOB_INTER" : "ca-app-pub-4744201980468292/3735223507",
+"ADMOB_NATIV" : "ca-app-pub-4744201980468292/5376689804",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
