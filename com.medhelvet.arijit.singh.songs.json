@@ -39,11 +39,11 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : false,
 
-"STARTAPPID" : "207783799_salah",
+"STARTAPPID" : "207783799",
 
-"ADMOB_BANNER" : "ca-app-pub-",
-"ADMOB_INTER" : "ca-app-pub-",
-"ADMOB_NATIV" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-4744201980468292/5257841128",
+"ADMOB_INTER" : "ca-app-pub-4744201980468292/8797060064",
+"ADMOB_NATIV" : "ca-app-pub-4744201980468292/3544733389",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
