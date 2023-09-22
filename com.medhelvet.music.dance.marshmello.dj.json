@@ -22,10 +22,9 @@
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
 //     Mode FAN         FAN backup Unity Backup Startapp
-//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
-//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
@@ -40,7 +39,7 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : false,
 
-"STARTAPPID" : "207794590",
+"STARTAPPID" : "2",
 
 "ADMOB_BANNER" : "ca-app-pub-",
 "ADMOB_INTER" : "ca-app-pub-",
@@ -56,8 +55,6 @@
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
-
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
