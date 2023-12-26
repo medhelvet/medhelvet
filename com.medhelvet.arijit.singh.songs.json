@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -29,7 +29,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "3",
+"INTER_COUNT" : "5",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -58,10 +58,10 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "",
+"UNITY_GAME_ID" : "4114625_salah",
 
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
+"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c_salah",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc_salah",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
